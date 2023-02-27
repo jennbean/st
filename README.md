@@ -31,7 +31,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 ## Installation for newbs
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/jennbean/st
 cd st
 sudo make install
 ```
@@ -69,7 +69,3 @@ To be clear about the color settings:
 
 Note that when you run `wal`, it will negate the transparency of existing windows, but new windows will continue with the previously defined transparency.
 
-## Contact
-
-- Luke Smith <luke@lukesmith.xyz>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
